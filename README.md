@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timhagel
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
+- 👀 I’m interested in Machine Learning, Web Development, Game Development
+- 🌱 I’m currently learning Web, Development
 
 
 
