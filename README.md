@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Game Development
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timhagel)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timhagel&show_icons=true&theme=transparent)
 
 <!---
 timhagel/timhagel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
