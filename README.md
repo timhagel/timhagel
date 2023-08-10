@@ -4,7 +4,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timhagel&show_icons=true&theme=transparent)
+![Tim Hagels's GitHub stats](https://github-readme-stats.vercel.app/api?username=timhagel&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timhagel)](https://github.com/timhagel/github-readme-stats)
+
 
 <!---
 timhagel/timhagel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
