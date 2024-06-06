@@ -2,7 +2,7 @@
 <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  , I'm Tim Hagel </br> 
 </h1>
   
-<p align="center">I've been programing for as long as I can remember 👨🏻‍💻</p>
+<p align="center">I've been programming for as long as I can remember 👨🏻‍💻</p>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <div align="center"><h2>About</h1></div>
 
-- 👀 I’m experienced in AI, Servers, Full Stack Web Development, Linux and Game Development
+- 👀 I have experience in AI, Servers, Full Stack Web Development, Linux, and Game Development
 - 🌱 I’m currently learning all the things I can
 
 <div align="center"><h2>Languages and Tools</h1></div>
