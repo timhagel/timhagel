@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=timhagel&theme=chalk&column=-1&no-frame=true&rank=-?" alt="trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=timhagel&theme=chalk&column=-1&no-frame=true&rank=-?,-C" alt="trophy">
 </p>
 
 <div align="center"><h2>About</h1></div>
