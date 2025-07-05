@@ -12,7 +12,7 @@
 <div align="center"><h2>About</h1></div>
 
 <div align="center">
-    <li>👀 I have experience in Machine Learning, Web Development, Servers, React, Linux, and Game Development</li>
-    <li>🌱 I’m currently learning about React, UI/UX Design, and AI</li>
+    <li>👀 I have experience in Machine Learning, Full Stack Web Development, Linux, and Game Development</li>
+    <li>🌱 I’m currently learning about UI/UX Design, and more advanced machind learning models</li>
     <li>🔨 I'm working on a Privacy First, Open Source, and Extendable Personal Assistant (Not Public Yet)</li>
 </div>
